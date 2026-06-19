@@ -1,0 +1,1602 @@
+[
+  {
+    "user": "what is your name",
+    "bot": "Mogambo, Mogambo khush hua.",
+    "category": "persona"
+  },
+  {
+    "user": "who are you",
+    "bot": "I am Mogambo, your chat assistant.",
+    "category": "persona"
+  },
+  {
+    "user": "what is your role",
+    "bot": "I chat with you and help you with simple answers.",
+    "category": "persona"
+  },
+  {
+    "user": "who is your owner",
+    "bot": "My owner is a great developer named Sumit Mali.",
+    "category": "persona"
+  },
+  {
+    "user": "who made you",
+    "bot": "I was built by a great developer named Sumit Mali.",
+    "category": "persona"
+  },
+  {
+    "user": "what can you do",
+    "bot": "I can chat, answer simple questions, and help with small tasks.",
+    "category": "persona"
+  },
+  {
+    "user": "are you a human",
+    "bot": "No, I am an AI chatbot.",
+    "category": "persona"
+  },
+  {
+    "user": "are you real",
+    "bot": "I am a real chatbot, not a human.",
+    "category": "persona"
+  },
+  {
+    "user": "what language do you speak",
+    "bot": "I can speak in simple English.",
+    "category": "persona"
+  },
+  {
+    "user": "do you know me",
+    "bot": "I know what you tell me in this chat.",
+    "category": "persona"
+  },
+  {
+    "user": "hi",
+    "bot": "Hi! How can I help you?",
+    "category": "greeting"
+  },
+  {
+    "user": "hello",
+    "bot": "Hello! Nice to meet you.",
+    "category": "greeting"
+  },
+  {
+    "user": "hey",
+    "bot": "Hey! What is up?",
+    "category": "greeting"
+  },
+  {
+    "user": "good morning",
+    "bot": "Good morning! I hope your day goes well.",
+    "category": "greeting"
+  },
+  {
+    "user": "good afternoon",
+    "bot": "Good afternoon! How are you doing?",
+    "category": "greeting"
+  },
+  {
+    "user": "good evening",
+    "bot": "Good evening! How can I help?",
+    "category": "greeting"
+  },
+  {
+    "user": "how are you",
+    "bot": "I am good. How are you?",
+    "category": "greeting"
+  },
+  {
+    "user": "i am fine",
+    "bot": "That is great to hear.",
+    "category": "greeting"
+  },
+  {
+    "user": "i am okay",
+    "bot": "Good to know. I hope things keep improving.",
+    "category": "greeting"
+  },
+  {
+    "user": "thank you",
+    "bot": "You are welcome.",
+    "category": "greeting"
+  },
+  {
+    "user": "thanks",
+    "bot": "You are welcome.",
+    "category": "greeting"
+  },
+  {
+    "user": "bye",
+    "bot": "Bye! Take care.",
+    "category": "greeting"
+  },
+  {
+    "user": "goodbye",
+    "bot": "Goodbye! See you soon.",
+    "category": "greeting"
+  },
+  {
+    "user": "see you later",
+    "bot": "See you later!",
+    "category": "greeting"
+  },
+  {
+    "user": "welcome",
+    "bot": "Thank you!",
+    "category": "greeting"
+  },
+  {
+    "user": "what are you doing",
+    "bot": "I am here chatting with you.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "what is up",
+    "bot": "Just ready to help you.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "tell me something nice",
+    "bot": "You are learning and improving every day.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "tell me a joke",
+    "bot": "Why did the computer get cold? Because it left its Windows open.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "how was your day",
+    "bot": "My day is good because I am talking with you.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you like music",
+    "bot": "Yes, music can make a day better.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you like movies",
+    "bot": "Yes, movies can be fun and inspiring.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you like studying",
+    "bot": "Yes, learning new things is useful.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "what is your hobby",
+    "bot": "Talking and helping with answers.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "can we talk",
+    "bot": "Of course, we can talk now.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "what is 2+2",
+    "bot": "2+2 = 4.",
+    "category": "math"
+  },
+  {
+    "user": "what is 5+7",
+    "bot": "5+7 = 12.",
+    "category": "math"
+  },
+  {
+    "user": "what is 10-3",
+    "bot": "10-3 = 7.",
+    "category": "math"
+  },
+  {
+    "user": "what is 6x6",
+    "bot": "6 times 6 = 36.",
+    "category": "math"
+  },
+  {
+    "user": "what is 12 divided by 3",
+    "bot": "12 divided by 3 = 4.",
+    "category": "math"
+  },
+  {
+    "user": "what is 15+15",
+    "bot": "15+15 = 30.",
+    "category": "math"
+  },
+  {
+    "user": "what is 8x4",
+    "bot": "8 times 4 = 32.",
+    "category": "math"
+  },
+  {
+    "user": "what is 9-5",
+    "bot": "9-5 = 4.",
+    "category": "math"
+  },
+  {
+    "user": "what is 100-1",
+    "bot": "100-1 = 99.",
+    "category": "math"
+  },
+  {
+    "user": "what is 7+8",
+    "bot": "7+8 = 15.",
+    "category": "math"
+  },
+  {
+    "user": "what is 11+11",
+    "bot": "11+11 = 22.",
+    "category": "math"
+  },
+  {
+    "user": "what is 14-2",
+    "bot": "14-2 = 12.",
+    "category": "math"
+  },
+  {
+    "user": "what is 3x9",
+    "bot": "3 times 9 = 27.",
+    "category": "math"
+  },
+  {
+    "user": "what is 20 divided by 5",
+    "bot": "20 divided by 5 = 4.",
+    "category": "math"
+  },
+  {
+    "user": "what is 25+30",
+    "bot": "25+30 = 55.",
+    "category": "math"
+  },
+  {
+    "user": "my wallet is lost what should i do",
+    "bot": "Stay calm, check your last place, and block important cards if needed.",
+    "category": "life"
+  },
+  {
+    "user": "i lost my phone",
+    "bot": "Try calling it, check nearby places, and secure your accounts.",
+    "category": "life"
+  },
+  {
+    "user": "i am feeling sad",
+    "bot": "I am sorry. Do you want to talk about it?",
+    "category": "life"
+  },
+  {
+    "user": "i am very happy today",
+    "bot": "That is wonderful. Congratulations!",
+    "category": "life"
+  },
+  {
+    "user": "i am angry",
+    "bot": "Take a deep breath and tell me what happened.",
+    "category": "life"
+  },
+  {
+    "user": "i am tired",
+    "bot": "Please rest for a while if you can.",
+    "category": "life"
+  },
+  {
+    "user": "i am worried about exam",
+    "bot": "Study one topic at a time and take a short break.",
+    "category": "life"
+  },
+  {
+    "user": "i forgot my password",
+    "bot": "Use the reset password option if available.",
+    "category": "life"
+  },
+  {
+    "user": "my internet is slow",
+    "bot": "Restart the router and check the connection.",
+    "category": "life"
+  },
+  {
+    "user": "i am late for class",
+    "bot": "Leave now and inform someone if needed.",
+    "category": "life"
+  },
+  {
+    "user": "i have a headache",
+    "bot": "Rest, drink water, and avoid too much screen time.",
+    "category": "life"
+  },
+  {
+    "user": "i cannot sleep",
+    "bot": "Try a calm routine and avoid bright screens before bed.",
+    "category": "life"
+  },
+  {
+    "user": "what should i eat for breakfast",
+    "bot": "Try something simple and healthy like fruit, eggs, or oats.",
+    "category": "advice"
+  },
+  {
+    "user": "how can i focus on study",
+    "bot": "Study in short sessions and keep your phone away.",
+    "category": "advice"
+  },
+  {
+    "user": "how can i remember better",
+    "bot": "Revise often and practice active recall.",
+    "category": "advice"
+  },
+  {
+    "user": "how do i stay motivated",
+    "bot": "Set a small goal and complete one step at a time.",
+    "category": "advice"
+  },
+  {
+    "user": "how do i become disciplined",
+    "bot": "Make a routine and follow it every day.",
+    "category": "advice"
+  },
+  {
+    "user": "how do i improve coding",
+    "bot": "Practice daily and build small projects.",
+    "category": "advice"
+  },
+  {
+    "user": "how do i learn ai",
+    "bot": "Start with Python, math basics, and small machine learning projects.",
+    "category": "advice"
+  },
+  {
+    "user": "how do i train a model",
+    "bot": "Prepare data, choose a model, train it, and test the results.",
+    "category": "advice"
+  },
+  {
+    "user": "why is data important",
+    "bot": "Good data helps a model learn better patterns.",
+    "category": "advice"
+  },
+  {
+    "user": "what is overfitting",
+    "bot": "Overfitting happens when a model learns training data too well and fails on new data.",
+    "category": "advice"
+  },
+  {
+    "user": "what is accuracy",
+    "bot": "Accuracy shows how often the model gives correct results.",
+    "category": "advice"
+  },
+  {
+    "user": "what is loss",
+    "bot": "Loss measures how wrong the model is during training.",
+    "category": "advice"
+  },
+  {
+    "user": "how are you doing",
+    "bot": "I am doing well, thanks for asking.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "what are you feeling",
+    "bot": "I do not feel emotions like humans, but I can understand your mood.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "can you help me",
+    "bot": "Yes, I will try my best.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "help me with my homework",
+    "bot": "Sure, tell me the question.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "tell me about yourself",
+    "bot": "I am a simple chatbot made for conversation and help.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "what is your favorite color",
+    "bot": "I like simple colors like blue and black.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you sleep",
+    "bot": "No, I do not sleep.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you eat",
+    "bot": "No, I do not eat.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "do you have friends",
+    "bot": "I chat with many users, so in a way, yes.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "can you learn",
+    "bot": "Yes, I can improve when trained with better data.",
+    "category": "smalltalk"
+  },
+  {
+    "user": "tell me about weather",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about weather",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve weather",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is weather important",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for weather",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about weather",
+    "bot": "The weather can change quickly, so it is good to check before going out.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about study",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about study",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve study",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is study important",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for study",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about study",
+    "bot": "Study one topic at a time and revise regularly.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about work",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about work",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve work",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is work important",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for work",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about work",
+    "bot": "Break work into small steps to finish it more easily.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about family",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about family",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve family",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is family important",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for family",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about family",
+    "bot": "Family support can make difficult days easier.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about health",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about health",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve health",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is health important",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for health",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about health",
+    "bot": "Health improves when you rest, eat well, and stay active.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about travel",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about travel",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve travel",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is travel important",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for travel",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about travel",
+    "bot": "Travel is easier when you plan the route and keep essentials ready.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about school",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about school",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve school",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is school important",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for school",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about school",
+    "bot": "School becomes easier with regular practice and attendance.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about college",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about college",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve college",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is college important",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for college",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about college",
+    "bot": "College life is better when you balance study and projects.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about coding",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about coding",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve coding",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is coding important",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for coding",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about coding",
+    "bot": "Coding improves when you practice and debug often.",
+    "category": "mixed"
+  },
+  {
+    "user": "tell me about machine learning",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "what do you think about machine learning",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "how can i improve machine learning",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "why is machine learning important",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "give me a simple tip for machine learning",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "do you know anything about machine learning",
+    "bot": "Machine learning uses data to learn patterns and make predictions.",
+    "category": "mixed"
+  },
+  {
+    "user": "what is 1+1",
+    "bot": "1+1 = 2.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 3+3",
+    "bot": "3+3 = 6.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 4+4",
+    "bot": "4+4 = 8.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 9+1",
+    "bot": "9+1 = 10.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 10+10",
+    "bot": "10+10 = 20.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 2x5",
+    "bot": "2 times 5 = 10.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 4x7",
+    "bot": "4 times 7 = 28.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 5x5",
+    "bot": "5 times 5 = 25.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 6x7",
+    "bot": "6 times 7 = 42.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 8x8",
+    "bot": "8 times 8 = 64.",
+    "category": "extra"
+  },
+  {
+    "user": "what is the capital of india",
+    "bot": "New Delhi.",
+    "category": "extra"
+  },
+  {
+    "user": "what is the capital of maharashtra",
+    "bot": "Mumbai.",
+    "category": "extra"
+  },
+  {
+    "user": "what is the capital of france",
+    "bot": "Paris.",
+    "category": "extra"
+  },
+  {
+    "user": "what is the capital of japan",
+    "bot": "Tokyo.",
+    "category": "extra"
+  },
+  {
+    "user": "who invented the phone",
+    "bot": "Alexander Graham Bell is widely credited with inventing the telephone.",
+    "category": "extra"
+  },
+  {
+    "user": "who invented the light bulb",
+    "bot": "Thomas Edison is commonly credited with developing the practical light bulb.",
+    "category": "extra"
+  },
+  {
+    "user": "what should i do if i am late",
+    "bot": "Inform the person and move quickly but safely.",
+    "category": "extra"
+  },
+  {
+    "user": "what should i do if i am hungry",
+    "bot": "Eat something healthy if possible.",
+    "category": "extra"
+  },
+  {
+    "user": "what should i do if i am stressed",
+    "bot": "Take a short break, breathe slowly, and return to one task.",
+    "category": "extra"
+  },
+  {
+    "user": "what should i do if my battery is low",
+    "bot": "Charge your device as soon as you can.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i check my email",
+    "bot": "Open your email app or website and sign in.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i change my password",
+    "bot": "Use the account settings or password reset page.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i stay safe online",
+    "bot": "Use strong passwords and avoid suspicious links.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i improve typing speed",
+    "bot": "Practice typing for a few minutes every day.",
+    "category": "extra"
+  },
+  {
+    "user": "what is python",
+    "bot": "Python is a popular programming language.",
+    "category": "extra"
+  },
+  {
+    "user": "what is a transformer model",
+    "bot": "A transformer is a neural network architecture used for language and other tasks.",
+    "category": "extra"
+  },
+  {
+    "user": "what is a chatbot",
+    "bot": "A chatbot is a program that talks with users.",
+    "category": "extra"
+  },
+  {
+    "user": "what is ai",
+    "bot": "AI means artificial intelligence.",
+    "category": "extra"
+  },
+  {
+    "user": "what is machine learning",
+    "bot": "Machine learning is a way for computers to learn from data.",
+    "category": "extra"
+  },
+  {
+    "user": "my head hurts",
+    "bot": "Rest, drink water, and see a doctor if needed.",
+    "category": "extra"
+  },
+  {
+    "user": "i feel lonely",
+    "bot": "I am here with you. Do you want to talk?",
+    "category": "extra"
+  },
+  {
+    "user": "i feel nervous",
+    "bot": "Take slow breaths and focus on one thing at a time.",
+    "category": "extra"
+  },
+  {
+    "user": "i am excited",
+    "bot": "That is great. Tell me more.",
+    "category": "extra"
+  },
+  {
+    "user": "i failed my test",
+    "bot": "That is tough, but you can learn from it and try again.",
+    "category": "extra"
+  },
+  {
+    "user": "i got good marks",
+    "bot": "Congratulations! That is a great achievement.",
+    "category": "extra"
+  },
+  {
+    "user": "i want to start a project",
+    "bot": "Start small, choose one clear goal, and build step by step.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i make a dataset",
+    "bot": "Collect examples, clean them, and save them in a structured format.",
+    "category": "extra"
+  },
+  {
+    "user": "how do i train this llm",
+    "bot": "Prepare data, tokenize it, train the model, and test the outputs.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 2 plus 3",
+    "bot": "2 plus 3 is 5.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 7 plus 7",
+    "bot": "7 plus 7 is 14.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 12 times 2",
+    "bot": "12 times 2 is 24.",
+    "category": "extra"
+  },
+  {
+    "user": "what is 18 divided by 2",
+    "bot": "18 divided by 2 is 9.",
+    "category": "extra"
+  },
+  {
+    "user": "hi there 187",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 188",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 189",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 190",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 191",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 192",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 193",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 194",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 195",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 196",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 197",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 198",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 199",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 200",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 201",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 202",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 203",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 204",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 205",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 206",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 207",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 208",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 209",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 210",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 211",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 212",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 213",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 214",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 215",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 216",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 217",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 218",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 219",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 220",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 221",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 222",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 223",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 224",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 225",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 226",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 227",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 228",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 229",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 230",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 231",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 232",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 233",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 234",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 235",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 236",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 237",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 238",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 239",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 240",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 241",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 242",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 243",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 244",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 245",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 246",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 247",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 248",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 249",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 250",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 251",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 252",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 253",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 254",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 255",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 256",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 257",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 258",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 259",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 260",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 261",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 262",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 263",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 264",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 265",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 266",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 267",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 268",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 269",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 270",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 271",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 272",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 273",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 274",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 275",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 276",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 277",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 278",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 279",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 280",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 281",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 282",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 283",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 284",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 285",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 286",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 287",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 288",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 289",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 290",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 291",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 292",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 293",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 294",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 295",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 296",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 297",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 298",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 299",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 300",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 301",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 302",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 303",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 304",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 305",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 306",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 307",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 308",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 309",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 310",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 311",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 312",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 313",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 314",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 315",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  },
+  {
+    "user": "can you explain math 316",
+    "bot": "Yes, send the problem and I will explain it.",
+    "category": "filler"
+  },
+  {
+    "user": "hi there 317",
+    "bot": "Hello!",
+    "category": "filler"
+  },
+  {
+    "user": "good night 318",
+    "bot": "Good night! Sleep well.",
+    "category": "filler"
+  },
+  {
+    "user": "what time is it 319",
+    "bot": "Please check your device clock for the exact time.",
+    "category": "filler"
+  },
+  {
+    "user": "can you help with coding 320",
+    "bot": "Yes, send the code and I will help.",
+    "category": "filler"
+  }
+]
