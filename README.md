@@ -17,12 +17,12 @@ It includes a custom Multi-Head Self-Attention engine, handcrafted Byte-Pair Enc
 ### 1. Inference Interface
 *Premium developer-style UI with a dark navy foundation and neon cyan accents.*
 
-![Web UI Demo 1](./docs/web_ui_demo.png)
+![Web UI Demo 1](./docs/web_ui_demo.jpeg)
 
 ### 2. Second UI View
 *Another look at the interactive chatbot experience.*
 
-![Web UI Demo 2](./docs/web_ui_demo_2.png)
+![Web UI Demo 2](./docs/web_ui_demo_2.jpeg)
 
 ### 4. Transformer Architecture
 *Standard decoder-only transformer layout mapped to custom tensor operations.*
